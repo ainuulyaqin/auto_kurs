@@ -1,1 +1,1 @@
-Library otomatis untuk membaca XML data dari kurs BCA. Silakan digunakan dengan bijak. Happy Coding :)
+Library otomatis untuk membaca XML data dari kurs Bank Indonesia. Silakan digunakan dengan bijak. Happy Coding :)
